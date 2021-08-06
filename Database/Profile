@@ -1,0 +1,1 @@
+web: gunicorn jpcsvotingapi.wsgi --log-file -
